@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*.local
+
+# Build output
+/build
+/dist
+/out
+
+# Static files cache (e.g., Next.js)
+.next/
+
+# Coverage reports
+coverage/
+
+# Cache files
+.cache/
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# TypeScript files
+*.tsbuildinfo
+
+# Miscellaneous
+*.orig
+*.bak
+*.swp
+
+# Dependency directories
+bower_components/
+
+# Misc
+*.tgz
+*.lock-wscript
